@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @c0mrade313
 - 👀 I’m interested in hacking
-- 🌱 I’m currently learning python and c
-- 💞️ I’m looking to collaborate on google and youtube
+- 🌱 I’m currently learning python and javascript
+- 💞️ I’m looking to collaborate on google
 - 📫 You can reach me instagram - zombie_from_heaven
 
 <!---
